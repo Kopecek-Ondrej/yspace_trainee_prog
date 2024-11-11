@@ -1,5 +1,7 @@
 this task aims to improve my coding skills
+
 ems.c:
+
 Create an Employee Management System in C. The program should allow the user to: 
 
   - Add new employees to the system. 
@@ -14,6 +16,7 @@ Create an Employee Management System in C. The program should allow the user to:
 
  
 task_c_gpio_led.c:
+
   Define two ports of GPIO registers  - GPIOA and GPIOB. Define two leds on pins PA5 and PB1 
   Define functions: void writePin(....); uint8_t readPin(....), void togglePin(....); in order to write pin, read pin and change pin state, respectively.  
   
